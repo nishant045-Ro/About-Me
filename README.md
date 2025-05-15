@@ -1,15 +1,15 @@
-🙋‍♂️About me
+🙋‍♂️About me:
 
 
-Hi, I'm Your Nishant poudel. 
+Hi, I'm Your Nishant poudel.🙂
 
 
-💻*Passionate about web development* PHP | Java | HTML | JavaScript | Tailwind CSS | Dart | Flutter  
+*Passionate about web development* PHP | Java | HTML | JavaScript | Tailwind CSS | Dart | Flutter  
 
 *Love working on* user-friendly, flexible, and efficient web & mobile applications  
 *Exploring* payment integrations, UI improvements, and seamless user experiences  
 
-*Reach me at:* nishantpoudel512@gmail.com & nipo_bca2080@lict.edu.np
+📪*Reach me at:* nishantpoudel512@gmail.com & nipo_bca2080@lict.edu.np
 
 ---
 
