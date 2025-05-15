@@ -4,7 +4,7 @@ Hi, I'm Your Nishant poudel.
 *Love working on* user-friendly, flexible, and efficient web & mobile applications  
 *Exploring* payment integrations, UI improvements, and seamless user experiences  
 
-*Reach me at:* (mailto:nishantpoudel512@gmail.com)
+*Reach me at:* nishantpoudel512@gmail.com & nipo_bca2080@lict.edu.np
 
 ---
 
