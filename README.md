@@ -4,7 +4,7 @@
 Hi, I'm Your Nishant poudel. 
 
 
-*Passionate about web development* PHP | Java | HTML | JavaScript | Tailwind CSS | Dart | Flutter  
+💻*Passionate about web development* PHP | Java | HTML | JavaScript | Tailwind CSS | Dart | Flutter  
 
 *Love working on* user-friendly, flexible, and efficient web & mobile applications  
 *Exploring* payment integrations, UI improvements, and seamless user experiences  
