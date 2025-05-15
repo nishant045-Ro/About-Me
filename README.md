@@ -4,7 +4,7 @@ Hi, I'm Your Nishant poudel.
 *Love working on* user-friendly, flexible, and efficient web & mobile applications  
 *Exploring* payment integrations, UI improvements, and seamless user experiences  
 
-*Reach me at:* [your.email@example.com](mailto:your.email@example.com)
+*Reach me at:* [your.email@example.com](mailto:nishantpoudel512@gmail.com)
 
 ---
 
