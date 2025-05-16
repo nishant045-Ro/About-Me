@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Food-Delivery website**
 
-- 🌱 I’m currently learning **Cursor, BootStrap**
+- 🌱 I’m currently learning **Flutter, Dart, React.**
 
 - 📫 Reach me on: **nishantpoudel512@gmail.com | nipo_bca2080@lict.edu.np**
 
