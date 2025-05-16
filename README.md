@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cursor, BootStrap**
 
-- 📫 Reach me on **nishantpoudel512@gmail.com|nipo_bca2080@lict.edu.np**
+- 📫 Reach me on: **nishantpoudel512@gmail.com | nipo_bca2080@lict.edu.np**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
