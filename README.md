@@ -17,8 +17,7 @@
 <a href="https://instagram.com/https://www.instagram.com/nishant_pdl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nishant_pdl/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left"></h3>
-### Tech Stack:
+<h3 align="left">Tech Stack</h3>
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
