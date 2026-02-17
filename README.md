@@ -1,13 +1,13 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/7000_1000px.gif)
 <h1 align="center">Hi 👋,
   I'm Nishant Poudel</h1>
-<h3 align="center">A passionate  Backend developer.</h3>
+<h3 align="center">A passionate  developer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishant045-ro" alt="nishant045-ro" /></a> </p>
 
-- 🔭 I’m currently working on **Food-Delivery website**
+- 🔭 I’m currently working on **Food-Delivery website, Shop Billing system.**
 
-- 🌱 I’m currently learning **Flutter, Dart, React.**
+- 🌱 I’m currently learning **Flutter, Dart, React, PHP.**
 
 - 📫 Reach me on: **nishantpoudel512@gmail.com | nipo_bca2080@lict.edu.np**
 
