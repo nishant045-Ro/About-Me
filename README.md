@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Food-Delivery website, Shop Billing system.**
 
-- 🌱 I’m currently learning **Flutter, Dart, React, PHP.**
+- 🌱 I’m currently learning **Flutter, Dart, React, PHP, Laravel.**
 
 - 📫 Reach me on: **nishantpoudel512@gmail.com | nipo_bca2080@lict.edu.np**
 
